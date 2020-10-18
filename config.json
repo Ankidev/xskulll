@@ -1,0 +1,32 @@
+{
+    "mongo_url": "mongodb+srv://devbot:devbot@xskull.vfcqh.mongodb.net/xskullist?retryWrites=true&w=majority",
+    "server": {
+        "id": "766352064581992458",
+        "invite": "https://discord.gg/tMuJXz2",
+        "mod_log_id": "766353430901162044",
+        "admin_user_ids": [484370510088634369],
+        "role_ids": {
+            "bot": "766356224185729024",
+            "unverified": "766352243103629332",
+            "verified": "766352410858749973",
+            "unmuted": "766352502345695252",
+
+            "bot_developer": "484370510088634369",
+            "bot_verifier": "766352817443045407"
+        }
+    },
+    "bot_options": {
+        "max_owners_count": 4
+    },
+    "discord_client": {
+        "id": "766346583599480852",
+        "secret": "oVepUh-xtPj3HquPOUNZ7Tvm1v5y7zrS",
+        "token": "zY2MzQ2NTgzNTk5NDgwODUy.X4iB3w.Xq6Snd2_IzPQWCPeHlwGRpwF4To",
+        "prefix": "X"
+    },
+    "web": {
+        "domain_with_protocol": "https://xbotlist.glitch.me",
+        "port": 3000,
+        "ratelimit": 30
+    }
+}
