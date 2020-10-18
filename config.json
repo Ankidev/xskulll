@@ -25,7 +25,7 @@
         "prefix": "X"
     },
     "web": {
-        "domain_with_protocol": "https://xbotlist.glitch.me",
+        "domain_with_protocol": "https://xbotlist.heroku.me",
         "port": 3000,
         "ratelimit": 30
     }
